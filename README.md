@@ -8,3 +8,9 @@ So far just a placeholder
 - figures: Inside this repo, the figures are saved.
 - results: Inside this repo, the results are saved, for example: models, model parameters.
 - data: In this repo, the data is saved, if it is too big, it will contain link for the container or some description of the data, I dunno yet.
+
+## Author:
+Dudás Bence
+
+## Project name:
+Unknown yet.
