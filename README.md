@@ -1,6 +1,6 @@
 # Data Sience Laboratory
 
-So far just a placeholder
+In this folder save every step of my workprocess. Minimal Work Effort is contained here.
 
 ## Data structure:  
 - EDA: Stands for Explorational Data Analysis. It's reason to understand the data
