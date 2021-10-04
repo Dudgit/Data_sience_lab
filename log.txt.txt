@@ -1,0 +1,11 @@
+- I've collected the folder structure for the task
+
+- Downloaded the data (I should upload it into drive to be able to access it)
+
+- Creating enviroment, collecting packages
+
+- Read the data with netcdf4, understanding data structure, dimensions....
+
+- Convert it into pandas. Just because of prefference
+
+- Update enviroment
