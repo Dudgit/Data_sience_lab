@@ -13,4 +13,4 @@ So far just a placeholder
 Dudás Bence
 
 ## Project name:
-Unknown yet.
+Eddies
