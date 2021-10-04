@@ -9,3 +9,11 @@
 - Convert it into pandas. Just because of prefference
 
 - Update enviroment
+
+- Visualization tools installed
+
+- Update enviroment
+
+- Visualize one data group
+
+- Creating workplan in the REAMDE.md
