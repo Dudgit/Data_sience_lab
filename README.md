@@ -14,3 +14,23 @@ Dudás Bence
 
 ## Project name:
 Eddies
+
+## How to use it:
+### Step 1
+First you have to create an enviroment. If you are using anaconda, it is the following command:  
+<center> conda env create -f environment.yml </center>  
+Note: you have to go into the dependecies folder, but after it, this will work  
+In the kooplex you need to consult with the teachers.
+
+### Step 2
+(Optional for users)  
+Understanding the data. Go into the EDA folder. There are 2 notebooks, which were used to understand the data. It is mandatory for later work.
+
+### Step 3
+Feature engineering
+
+### Step 4 
+Baseline model creation
+
+### Step 5 
+Fine tuning
