@@ -1,6 +1,6 @@
 # Data Sience Laboratory
 
-In this folder save every step of my workprocess. Minimal Work Effort is contained here.
+In this folder save every step of my workprocess. Minimal Work Effort(MWE) is contained here.
 
 ## Data structure:  
 - EDA: Stands for Explorational Data Analysis. It's reason to understand the data
@@ -8,6 +8,19 @@ In this folder save every step of my workprocess. Minimal Work Effort is contain
 - figures: Inside this repo, the figures are saved.
 - results: Inside this repo, the results are saved, for example: models, model parameters.
 - data: In this repo, the data is saved, if it is too big, it will contain link for the container or some description of the data, I dunno yet.
+
+### Eda
+- Loadnc.ipynb : Load and understand the data format. Not necesarry for reproduction, but esential for understanding  
+- Pandasread.ipynb : The data converted into pandas Dataframe. Visualization of the mostion of a specific Eddy. And the longevity.
+
+### Results
+- EDA.md : The results of EDA and some additional information.
+
+### SRC
+Sorce codes, it might contain an other README.md with deeper explanation.
+
+### Dependencies
+Containing yet, only the enviroment.yml
 
 ## Author:
 Dudás Bence
