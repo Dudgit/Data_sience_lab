@@ -26,7 +26,7 @@ Containing yet, only the enviroment.yml
 Dudás Bence
 
 ## Project name:
-Eddies
+Mesoscale Ocean Eddies along the U.S. West Coast
 
 ## How to use it:
 ### Step 1
