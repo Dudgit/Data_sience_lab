@@ -17,3 +17,9 @@
 - Visualize one data group
 
 - Creating workplan in the REAMDE.md
+
+- Created longevity calculation
+
+- Position map, created
+
+- Higher understanding of the data
