@@ -22,6 +22,9 @@ Sorce codes, it might contain an other README.md with deeper explanation.
 ### Dependencies
 Containing yet, only the enviroment.yml
 
+### ABT_creator
+This Notebook calls some Functions and create an ABT
+
 ## Author:
 Dudás Bence
 
@@ -40,7 +43,9 @@ In the kooplex you need to consult with the teachers.
 Understanding the data. Go into the EDA folder. There are 2 notebooks, which were used to understand the data. It is mandatory for later work.
 
 ### Step 3
-Feature engineering
+Feature engineering  
+Run the ABT_Creator notebook  
+Note: I might gather everything into one python file, for easier runs, or just upload the created ABT  
 
 ### Step 4 
 Baseline model creation
