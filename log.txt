@@ -33,3 +33,5 @@
 - Function descrpitions added
 
 - enviroment updated
+
+- Finally, the error checker is working
