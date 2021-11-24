@@ -21,7 +21,6 @@ dependencies:
   - decorator=5.1.0=pyhd8ed1ab_0
   - entrypoints=0.3=pyhd8ed1ab_1003
   - fonttools=4.25.0=pyhd3eb1b0_0
-  - freetype=2.11.0=ha860e81_0
   - icc_rt=2019.0.0=h0cc432a_1
   - icu=58.2=ha925a31_3
   - imageio=2.8.0=py_0
@@ -175,4 +174,3 @@ dependencies:
     - zarr==2.10.2
     - zict==2.0.0
     - zipp==3.6.0
-prefix: D:\Python\envs\Eddies
