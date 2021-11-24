@@ -44,11 +44,20 @@ Understanding the data. Go into the EDA folder. There are 2 notebooks, which wer
 
 ### Step 3
 Feature engineering  
-Run the ABT_Creator notebook  
-Note: I might gather everything into one python file, for easier runs, or just upload the created ABT  
+This is a pretty long process, took some hours, so I upload the data into this repo
 
 ### Step 4 
-Baseline model creation
+To recreate the results you must go to the leanr.ipynb and run all cells. The only 2 package which can have problems is shap and catboost.  
+To install shap, you need the following in anaconda:  
+- conda install -c conda-forge shap  
+- conda install -c conda-forge/label/cf201901 shap  
+- conda install -c conda-forge/label/cf202003 shap  
+  
+To install catboost:   
+- conda config --add channels conda-forge  
+- conda install catboost  
 
-### Step 5 
-Fine tuning
+Installig catboost dashboard(optional):  
+- pip install ipywidgets  
+- jupyter nbextension enable --py widgetsnbextension  
+
