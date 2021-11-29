@@ -47,7 +47,7 @@ Feature engineering
 This is a pretty long process, took some hours, so I upload the data into this repo
 
 ### Step 4 
-To recreate the results you must go to the leanr.ipynb and run all cells. The only 2 package which can have problems is shap and catboost.  
+To recreate the results you must go to the main.ipynb and run all cells. The only 2 package which can have problems is shap and catboost.  
 To install shap, you need the following in anaconda:  
 - conda install -c conda-forge shap  
 - conda install -c conda-forge/label/cf201901 shap  
