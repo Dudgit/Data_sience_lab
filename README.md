@@ -33,7 +33,7 @@ Mesoscale Ocean Eddies along the U.S. West Coast
 
 ## How to use it:
 ### Step 1
-First you have to create an enviroment. If you are using anaconda, it is the following command:  
+First you have to create an environment. If you are using anaconda, it is the following command:  
 <center> conda env create -f environment.yml </center>  
 Note: you have to go into the dependecies folder, but after it, this will work  
 In the kooplex you need to consult with the teachers.
