@@ -50,7 +50,6 @@ dependencies:
   - fonts-conda-ecosystem=1
   - fonts-conda-forge=1
   - fonttools=4.25.0
-  - freetype=2.11.0
   - freexl=1.0.6
   - gdal=3.3.2
   - geojson=2.5.0
@@ -243,7 +242,6 @@ dependencies:
     - plotly==5.4.0
     - psutil==5.8.0
     - pycparser==2.20
-    - pygmaps-enhanced==0.2.0
     - pyparsing==2.4.7
     - python-graphviz==0.18.2
     - pywinpty==1.1.6
